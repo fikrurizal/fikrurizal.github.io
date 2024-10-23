@@ -11,35 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Economics (Health), Monash Business School, Monash University, Australia, 2024
+* M.Sc in Health Economics, Erasmus University Rotterdam, the Netherlands, 2018
+* MD, Universitas Gadjah Mada, Indonesia, 2016
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Feb 2024 - present: Research Fellow
+  * Health Economics Group, School of Public Health and Preventive Medicine, Monash University
+  * Current project: Connecting for Better Health
+ 
+* Aug 2022 - Dec 2023: Research Assistant
+  * Australian National University
+  * Project: the use of Value of Statistical Life (VSL) for policymaking   
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Jul 2016 - present: Research Associate 
+  * Universitas Gadjah Mada, Indonesia   
 
 Publications
 ======
@@ -47,11 +34,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
