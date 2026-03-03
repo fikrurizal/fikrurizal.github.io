@@ -1,14 +1,25 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "About Me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a research fellow at the Health Economics Group within the School of Public Health and Preventive Medicine at Monash University. My research interests lie in the intersection between health economics and development economics, particularly socioeconomic inequality in health and healthcare access and financing.
+I am a Research Fellow at the [Health Economics Group](https://www.monash.edu/medicine/sphpm/health-economics), School of Public Health and Preventive Medicine, Monash University. My research interests lie at the intersection of health economics and development economics, with a particular focus on socioeconomic inequality in health, healthcare access, and healthcare financing.
 
-I am a medical doctor by training from Universitas Gadjah Mada (Indonesia). I hold an MSc in Health Economics from Erasmus University, Rotterdam, the Netherlands, and a PhD in Health Economics from the Centre for Health Economics (CHE), Monash Business School, Australia. My PhD thesis is on the economic determinants of health and healthcare utilisation in Indonesia. 
+I am a medical doctor by training, graduating from Universitas Gadjah Mada, Indonesia. I subsequently obtained an MSc in Health Economics from Erasmus University Rotterdam, the Netherlands, and a PhD in Health Economics from the Centre for Health Economics (CHE), Monash Business School, Australia. My PhD thesis examined the economic determinants of health and healthcare utilisation in Indonesia.
 
-Apart from academic research, I have vast experience working with with key policymakers (mainly in Indonesia) as a consultant. 
+Beyond academic research, I have extensive experience working with key policymakers—primarily in Indonesia—as a consultant on health policy and financing.
+
+## Research Interests
+
+- Socioeconomic inequality in health and healthcare access
+- Health financing and insurance in low- and middle-income countries
+- Economic determinants of health behaviour and utilisation
+- Health policy evaluation in Indonesia and Southeast Asia
+
+## News
+
+- **Feb 2024** — Started as Research Fellow at Monash University, working on the *Connecting for Better Health* project.
