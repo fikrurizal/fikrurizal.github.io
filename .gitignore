@@ -8,3 +8,5 @@
 /site_libs/
 /.DS_Store
 Thumbs.db
+
+**/*.quarto_ipynb
