@@ -268,11 +268,29 @@ li {
   margin-bottom: 0.45rem;
 }
 
-.page-footer {
+.footer {
+  width: 100%;
+  background: #fff;
   border-top: 1px solid var(--site-border);
   color: #475467;
+}
+
+.nav-footer {
+  max-width: 1120px;
+  margin: 0 auto;
+  padding: 1rem 1.25rem;
   font-size: 0.82rem;
   line-height: 1.55;
+}
+
+.nav-footer-left,
+.nav-footer-right {
+  margin: 0;
+}
+
+.nav-footer-left p,
+.nav-footer-right p {
+  margin-bottom: 0;
 }
 
 .listing {
