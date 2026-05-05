@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics (Health), Monash Business School, Monash University, Australia, 2024
-* M.Sc in Health Economics, Erasmus University Rotterdam, the Netherlands, 2018
+* PhD in Economics (Health), Monash Business School, Monash University, Australia, 2024
+* MSc in Health Economics, Erasmus University Rotterdam, the Netherlands, 2018
 * MD, Universitas Gadjah Mada, Indonesia, 2016
 
 Work Experience
 ======
-* Feb 2024 – present: Research Fellow
+* February 2024 - present: Research Fellow
   * Health Economics Group, School of Public Health and Preventive Medicine, Monash University
   * Current project: *Connecting for Better Health*
 
-* Aug 2022 – Dec 2023: Research Assistant
+* August 2022 - December 2023: Research Assistant
   * Australian National University
   * Project: The use of Value of Statistical Life (VSL) for policymaking
 
-* Jul 2016 – present: Research Associate
+* July 2016 - present: Research Associate
   * Universitas Gadjah Mada, Indonesia
 
 Publications
@@ -43,5 +43,5 @@ Teaching
 Skills
 ======
 * **Research:** Health economic evaluation, econometrics, systematic review, health policy analysis
-* **Software:** Stata, R, Python, Latex
+* **Software:** Stata, R, Python, LaTeX
 * **Languages:** Indonesian (native), English (fluent), Dutch (intermediate)

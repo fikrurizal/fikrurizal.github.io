@@ -11,6 +11,11 @@ author_profile: true
 
 {% endif %}
 
+{% assign talk_count = site.talks | size %}
+{% if talk_count == 0 %}
+  <p>This page will list invited talks, seminars, and conference presentations.</p>
+{% endif %}
+
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}

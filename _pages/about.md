@@ -1,17 +1,20 @@
 ---
 permalink: /
-title: "About Me"
+title: "M. Fikru Rizal"
+excerpt: "Health economist and medical doctor working on inequality, access, and financing in health systems."
 author_profile: true
 redirect_from:
   - /about/
   - /about.html
 ---
 
-I am a Research Fellow at the [Health Economics Group](https://www.monash.edu/medicine/sphpm/health-economics), School of Public Health and Preventive Medicine, Monash University. My research interests lie at the intersection of health economics and development economics, with a particular focus on socioeconomic inequality in health, healthcare access, and healthcare financing.
+I am a health economist and medical doctor working on how economic conditions, public policy, and health-system design shape health and healthcare access. I am currently a Research Fellow with the [Health Economics Group](https://www.monash.edu/medicine/sphpm/health-economics) at Monash University's School of Public Health and Preventive Medicine.
 
-I am a medical doctor by training, graduating from Universitas Gadjah Mada, Indonesia. I subsequently obtained an MSc in Health Economics from Erasmus University Rotterdam, the Netherlands, and a PhD in Health Economics from the Centre for Health Economics (CHE), Monash Business School, Australia. My PhD thesis examined the economic determinants of health and healthcare utilisation in Indonesia.
+My research sits at the intersection of health economics and development economics, with a focus on socioeconomic inequality in health, healthcare access, healthcare financing, and policy evaluation in Indonesia and Southeast Asia.
 
-Beyond academic research, I have extensive experience working with key policymakers—primarily in Indonesia—as a consultant on health policy and financing.
+I trained as a medical doctor at Universitas Gadjah Mada, Indonesia, then completed an MSc in Health Economics at Erasmus University Rotterdam and a PhD in Health Economics at the Centre for Health Economics, Monash Business School. My doctoral work examined economic determinants of health and healthcare utilisation in Indonesia.
+
+Beyond academic research, I have worked with policymakers, primarily in Indonesia, as a consultant on health policy and financing.
 
 ## Research Interests
 
@@ -20,6 +23,16 @@ Beyond academic research, I have extensive experience working with key policymak
 - Economic determinants of health behaviour and utilisation
 - Health policy evaluation in Indonesia and Southeast Asia
 
+## Current Work
+
+I am working on the *Connecting for Better Health* project at Monash University. More broadly, I use applied econometric and policy-analysis methods to study how health systems can reduce barriers to care and improve equity.
+
+## Selected Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=x1Dg-P8AAAAJ&hl=en&oi=ao)
+- [CV](/cv/)
+- [Email](mailto:fikru.rizal@monash.edu)
+
 ## News
 
-- **Feb 2024** — Started as Research Fellow at Monash University, working on the *Connecting for Better Health* project.
+- **February 2024** - Started as Research Fellow at Monash University, working on the *Connecting for Better Health* project.
