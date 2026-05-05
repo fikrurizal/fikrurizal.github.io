@@ -3,7 +3,7 @@ title: "Research"
 description: "Publications, working papers, and selected research projects."
 ---
 
-My research examines how economic conditions and health-system design affect health, healthcare use, quality of life, and financial protection. I focus especially on Indonesia and other low- and middle-income country settings, with related work on loneliness, social isolation, and mental health.
+My research examines how economic conditions and health-system design affect health, healthcare use, quality of life, and financial protection, with related work on loneliness, social isolation, and mental health.
 
 ## Themes
 

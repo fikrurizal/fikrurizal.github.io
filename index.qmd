@@ -7,13 +7,13 @@ page-layout: full
 ::: {.home-shell}
 ::: {.hero}
 ::: {.hero-copy}
-<p class="eyebrow">Health economics | Development economics | Health policy</p>
+<p class="eyebrow">Health economics | Mental health | Health policy</p>
 
 # M. Fikru Rizal
 
 Dr Muhammad Fikru Rizal is a Research Fellow in the Health Economics Group within the School of Public Health and Preventive Medicine at Monash University, Australia.
 
-His research focuses on the socio-economic causes and consequences of health and healthcare service use, with particular interest in inequality, healthcare access and financing, mental health, and policy evaluation in Indonesia and other health-system settings.
+His research focuses on how economic conditions and health-system design shape health, healthcare use, quality of life, and financial protection, with particular interest in inequality, mental health, healthcare access, and policy evaluation.
 
 ::: {.hero-actions}
 [Research](research.qmd){.primary-action}
@@ -27,38 +27,12 @@ His research focuses on the socio-economic causes and consequences of health and
 :::
 :::
 
-::: {.signal-grid}
-::: {.signal}
-<span>Current role</span>
-**Research Fellow**<br>
-Monash University
-:::
-
-::: {.signal}
-<span>Scholar snapshot</span>
-**190 citations**<br>
-h-index 5
-:::
-
-::: {.signal}
-<span>Research areas</span>
-**Health economics**<br>
-mental health, development, policy
-:::
-
-::: {.signal}
-<span>Policy work</span>
-**Indonesia focus**<br>
-financing, HTA, access
-:::
-:::
-
 ::: {.section-band}
 ## Profile
 
-Fikru is a medical doctor by training from Indonesia. He holds an MSc in Health Economics from Erasmus University Rotterdam and a PhD in Health Economics from the Centre for Health Economics, Monash Business School. His doctoral research examined the economic determinants of health and healthcare utilisation in Indonesia.
+Fikru is a medical doctor by training. He holds an MSc in Health Economics from Erasmus University Rotterdam and a PhD in Health Economics from the Centre for Health Economics, Monash Business School. His doctoral research examined the economic determinants of health and healthcare utilisation.
 
-He works with large longitudinal and linked datasets, applied econometric methods, inequality analysis, and health economic evaluation. Alongside academic research, he has worked with policy and consulting partners, primarily in Indonesia.
+He works with large longitudinal and linked datasets, applied econometric methods, inequality analysis, and health economic evaluation. Alongside academic research, he has worked with policy and consulting partners on applied health financing and evaluation projects.
 :::
 
 ::: {.section-band}
@@ -80,10 +54,6 @@ Socioeconomic gradients in health outcomes, healthcare utilisation, and access.
 Treatment gaps, loneliness, social isolation, and quality-of-life measurement.
 :::
 
-::: {.research-card}
-### Development economics
-Applied research on health and welfare in low- and middle-income country settings.
-:::
 :::
 :::
 
