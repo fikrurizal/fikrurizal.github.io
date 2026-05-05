@@ -3,16 +3,37 @@ title: "Research"
 description: "Publications, working papers, and selected research projects."
 ---
 
-My research examines how economic conditions and health-system design affect health, healthcare use, and financial protection. I focus especially on Indonesia and other low- and middle-income country settings.
+My research examines how economic conditions and health-system design affect health, healthcare use, quality of life, and financial protection. I focus especially on Indonesia and other low- and middle-income country settings, with related work on loneliness, social isolation, and mental health.
 
 ## Themes
 
-- **Socioeconomic inequality in health:** gradients in health outcomes and healthcare utilisation.
-- **Healthcare access:** financial barriers, insurance coverage, stigma, and treatment gaps.
-- **Healthcare financing:** public insurance, provider payment, and financial protection.
-- **Policy evaluation:** applied empirical work on health-system reforms and public programs.
+::: {.theme-strip}
+::: {.theme-item}
+**Socioeconomic inequality in health**<br>
+Gradients in health outcomes, healthcare utilisation, and financial protection.
+:::
+
+::: {.theme-item}
+**Healthcare access and financing**<br>
+Insurance coverage, provider payment, financial barriers, stigma, and treatment gaps.
+:::
+
+::: {.theme-item}
+**Mental health and social connection**<br>
+Loneliness, social isolation, health utility, and healthcare use.
+:::
+
+::: {.theme-item}
+**Policy evaluation**<br>
+Applied empirical work on health-system reforms and public programs.
+:::
+:::
 
 ## Publications
+
+::: {.source-note}
+Publication list refreshed from [Google Scholar](https://scholar.google.com/citations?user=x1Dg-P8AAAAJ&hl=en&oi=ao) and cross-checked against DOI or Monash profile records where available.
+:::
 
 {{< include _content/publications.md >}}
 

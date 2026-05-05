@@ -2,72 +2,92 @@
 title: "M. Fikru Rizal"
 subtitle: "Research Fellow, Health Economics Group, Monash School of Public Health and Preventive Medicine"
 page-layout: full
-about:
-  template: jolla
-  image: assets/images/profile.png
-  image-shape: rounded
-  links:
-    - text: CV
-      href: cv.qmd
-    - text: Research
-      href: research.qmd
-    - text: Notes
-      href: notes.qmd
-    - icon: envelope
-      text: Email
-      href: mailto:fikru.rizal@monash.edu
-    - icon: github
-      text: GitHub
-      href: https://github.com/fikrurizal
-    - icon: linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/muhammad-fikru-rizal-066a3081/
-    - text: Google Scholar
-      href: https://scholar.google.com/citations?user=x1Dg-P8AAAAJ&hl=en&oi=ao
 ---
+
+::: {.home-shell}
+::: {.hero}
+::: {.hero-copy}
+<p class="eyebrow">Health economics | Development economics | Health policy</p>
+
+# M. Fikru Rizal
 
 Dr Muhammad Fikru Rizal is a Research Fellow in the Health Economics Group within the School of Public Health and Preventive Medicine at Monash University, Australia.
 
-His research sits at the intersection of health economics and development economics, with interests in socioeconomic inequality in health, healthcare access, healthcare financing, and the ways public policy shapes health and healthcare utilisation.
+His research focuses on the socio-economic causes and consequences of health and healthcare service use, with particular interest in inequality, healthcare access and financing, mental health, and policy evaluation in Indonesia and other health-system settings.
 
+::: {.hero-actions}
+[Research](research.qmd){.primary-action}
+[CV](cv.qmd){.secondary-action}
+[Google Scholar](https://scholar.google.com/citations?user=x1Dg-P8AAAAJ&hl=en&oi=ao){.secondary-action}
+:::
+:::
+
+::: {.hero-portrait}
+![](assets/images/profile.jpg){fig-alt="Portrait of M. Fikru Rizal"}
+:::
+:::
+
+::: {.signal-grid}
+::: {.signal}
+<span>Current role</span>
+**Research Fellow**<br>
+Monash University
+:::
+
+::: {.signal}
+<span>Scholar snapshot</span>
+**190 citations**<br>
+h-index 5
+:::
+
+::: {.signal}
+<span>Research areas</span>
+**Health economics**<br>
+mental health, development, policy
+:::
+
+::: {.signal}
+<span>Policy work</span>
+**Indonesia focus**<br>
+financing, HTA, access
+:::
+:::
+
+::: {.section-band}
 ## Profile
 
 Fikru is a medical doctor by training from Indonesia. He holds an MSc in Health Economics from Erasmus University Rotterdam and a PhD in Health Economics from the Centre for Health Economics, Monash Business School. His doctoral research examined the economic determinants of health and healthcare utilisation in Indonesia.
 
-He has experience applying advanced econometric techniques to large-scale longitudinal and linked datasets, conducting inequality analyses, and undertaking health economic evaluations. Alongside academic research, he has worked on health policy and financing projects with policy and consulting partners, primarily in Indonesia.
+He works with large longitudinal and linked datasets, applied econometric methods, inequality analysis, and health economic evaluation. Alongside academic research, he has worked with policy and consulting partners, primarily in Indonesia.
+:::
 
+::: {.section-band}
 ## Research Interests
 
 ::: {.research-grid}
 ::: {.research-card}
 ### Health economics
-Empirical work on health, healthcare use, economic evaluation, and health-system performance.
+Healthcare use, economic evaluation, health-system performance, and policy design.
+:::
+
+::: {.research-card}
+### Inequality in health
+Socioeconomic gradients in health outcomes, healthcare utilisation, and access.
+:::
+
+::: {.research-card}
+### Mental health
+Treatment gaps, loneliness, social isolation, and quality-of-life measurement.
 :::
 
 ::: {.research-card}
 ### Development economics
 Applied research on health and welfare in low- and middle-income country settings.
 :::
-
-::: {.research-card}
-### Inequality in health
-Socioeconomic gradients in health outcomes, healthcare utilisation, and barriers to care.
-:::
-
-::: {.research-card}
-### Healthcare access
-The role of insurance, financial barriers, stigma, and service availability in healthcare use.
-:::
-
-::: {.research-card}
-### Healthcare financing
-Public insurance, provider payment, financial protection, and policy design.
 :::
 :::
 
-## Current Role
-
-**Research Fellow**  
-Health Economics Group, School of Public Health and Preventive Medicine, Monash University
-
-For publications, working papers, and projects, see [Research](research.qmd). For education, employment, and teaching, see [CV](cv.qmd).
+::: {.cta-band}
+For publications, working papers, and projects, see [Research](research.qmd). For education, appointments, teaching, and consulting experience, see [CV](cv.qmd).
+:::
+:::

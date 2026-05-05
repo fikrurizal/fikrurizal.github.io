@@ -1,6 +1,6 @@
 ### Mental Healthcare Access and the Treatment Gap in Indonesia
 
-With David Johnston, Nicole Black, and Rohan Sweeney. [Working paper](https://monash-ch-econ-wps.s3.amazonaws.com/RePEc/mhe/chemon/2024-16.pdf).
+With David Johnston, Nicole Black, and Rohan Sweeney. Centre for Health Economics Working Paper 2024-16. [Working paper](https://monash-ch-econ-wps.s3.amazonaws.com/RePEc/mhe/chemon/2024-16.pdf).
 
 This paper examines how wealth, education, and health insurance coverage influence mental healthcare access among adults with probable depression in Indonesia. Using data from more than 400,000 adults, the study documents a large treatment gap: only 9.3% of those identified as having probable depression receive treatment. Wealth and health insurance are positively associated with mental healthcare utilisation, while education is not. The findings point to the importance of reducing financial barriers and stigma in addressing the mental health treatment gap in low- and middle-income countries.
 
