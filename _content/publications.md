@@ -1,0 +1,7 @@
+- Engel, L., Rizal, M. F., Clifford, S., Faller, J., Lim, M. H., Le, L. K. D., ... & Mihalopoulos, C. (2025). An updated systematic literature review of the economic costs of loneliness and social isolation and the cost effectiveness of interventions. *PharmacoEconomics*, 1-17.
+- Rizal, M. F. (2025). Public health insurance and healthcare utilisation decisions of young adults. *Health Economics*, 34(3), 500-517.
+- Rizal, M. F., Hafidz, F., Kusila, G. R., Aisyiah, W., Revelino, D., Dhanalvin, E., ... & Ruby, M. (2024). Hospital services utilisation and cost before and after COVID-19 hospital treatment: Evidence from Indonesia. *PLOS ONE*, 19(7), e0305835.
+- Hafidz, F., Icanervilia, A. V., Rizal, M. F., Listiani, P., Setiyaningsih, H., Sasanti, M. L., ... & Nadjib, M. (2024). Economic evaluation of cervical cancer screening by HPV DNA, VIA, and Pap smear methods in Indonesia. *Asian Pacific Journal of Cancer Prevention*, 25(9), 3015.
+- Rizal, M. F., Black, N., Johnston, D. W., & Sweeney, R. (2023). Long-term health effects of a school construction program. *Health Economics*.
+- Hafidz, F., & Rizal, M. F. (2022). *Analisis efisiensi fasilitas kesehatan: aplikasi menggunakan software R*. UGM Press.
+- Rizal, M. F., & van Doorslaer, E. (2019). Explaining the fall of socioeconomic inequality in childhood stunting in Indonesia. *SSM - Population Health*, 9, 100469.

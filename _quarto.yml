@@ -1,0 +1,56 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "M. Fikru Rizal"
+  site-url: "https://fikrurizal.github.io"
+  repo-url: "https://github.com/fikrurizal/fikrurizal.github.io"
+  favicon: "assets/images/favicon.ico"
+  navbar:
+    title: "M. Fikru Rizal"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Notes"
+        href: notes.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - icon: github
+        href: "https://github.com/fikrurizal"
+        aria-label: "GitHub"
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/muhammad-fikru-rizal-066a3081/"
+        aria-label: "LinkedIn"
+      - icon: twitter-x
+        href: "https://twitter.com/fikrurizal"
+        aria-label: "X / Twitter"
+  page-footer:
+    left: |
+      This is a personal webpage. The ideas and information expressed on it have not been approved or authorised by Monash University either explicitly or by implication. In no event shall Monash University be liable for any damages whatsoever resulting from any action arising in connection with the use of this information or its publication, including any action for infringement of copyright or defamation. We acknowledge and pay respects to the Elders and Traditional Owners of the land.
+    right:
+      - text: "Contact"
+        href: contact.qmd
+      - text: "GitHub"
+        href: "https://github.com/fikrurizal"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-depth: 2
+    anchor-sections: true
+    smooth-scroll: true
+    link-external-newwindow: true
+    include-in-header:
+      text: |
+        <meta name="description" content="Personal academic website of M. Fikru Rizal, Research Fellow in the Health Economics Group at Monash University.">
+
+execute:
+  freeze: auto

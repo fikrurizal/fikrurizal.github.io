@@ -1,0 +1,47 @@
+---
+title: "Curriculum Vitae"
+description: "Education, appointments, teaching, and selected policy experience."
+---
+
+This page is maintained in Markdown so it can be updated without editing templates. A downloadable PDF CV can be added later by placing the file in `assets/files/` and linking it near the top of this page.
+
+## Education
+
+- **PhD in Health Economics**, Monash University, Australia, 2024  
+  Supervisors: Prof. David Johnston, A/Prof. Nicole Black, Dr Rohan Sweeney  
+  Thesis: *Essays on the economic determinants of health and healthcare utilisation in Indonesia*
+- **MSc in Health Economics**, Erasmus University Rotterdam, the Netherlands, 2018
+- **MD**, Universitas Gadjah Mada, Indonesia, 2016
+
+## Work Experience
+
+- **Research Fellow**, Health Economics Group, School of Public Health and Preventive Medicine, Monash University, February 2024-present
+- **Research Assistant**, Centre for Health Economics, Monash University, Australia  
+  With Prof. David Johnston, March-November 2020  
+  With Dr Rohan Sweeney, January 2023
+- **Research Assistant**, Department of Health Services Research and Policy, Australian National University  
+  With Prof. Emily Lancsar, August 2022-December 2023
+- **Research Associate**, Centre for Health Financing Policy and Health Insurance Management, Universitas Gadjah Mada, Indonesia  
+  Project-based, July-October 2016; full-time, 2019; project-based, January 2020-present
+- **General practitioner intern**, Yogyakarta, Indonesia  
+  Sleman Subdistrict Public Health Centre, November 2016-February 2017  
+  PDHI General Hospital, March-June 2017 and August-December 2018
+
+## Teaching
+
+- **Teaching Associate**, Centre for Health Economics, Monash University, Australia  
+  MED4100 Health Economics, July 2021-December 2023
+
+## Selected Consulting and Policy Experience
+
+- Health financing and health technology assessment projects with Indonesian policy partners, including economic evaluation work for cervical cancer screening and cataract extraction.
+- Research and policy work through the Centre for Health Financing Policy and Health Insurance Management, Universitas Gadjah Mada.
+
+## Skills
+
+- Applied econometrics
+- Health economic evaluation
+- Inequality analysis
+- Systematic review
+- Health policy analysis
+- Large-scale longitudinal and linked data analysis

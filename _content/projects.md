@@ -1,0 +1,3 @@
+- [Cost-effectiveness of SARS-CoV-2 Surveillance on Wastewater and Environmental Sampling as an early warning system for community COVID-19 transmission in Indonesia](https://sites.nationalacademies.org/PGA/PEER/PEERscience/PGA_374648) (US NIH-funded PEER project, ongoing)
+- Economic evaluation for cervical cancer screening program in Indonesia (2020 Health Technology Assessment Project, Ministry of Health, Indonesia)
+- Cost-effectiveness of phacoemulsification vs extracapsular cataract extraction (2019 Health Technology Assessment Project, Ministry of Health, Indonesia)

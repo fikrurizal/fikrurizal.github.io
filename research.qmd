@@ -1,0 +1,25 @@
+---
+title: "Research"
+description: "Publications, working papers, and selected research projects."
+---
+
+My research examines how economic conditions and health-system design affect health, healthcare use, and financial protection. I focus especially on Indonesia and other low- and middle-income country settings.
+
+## Themes
+
+- **Socioeconomic inequality in health:** gradients in health outcomes and healthcare utilisation.
+- **Healthcare access:** financial barriers, insurance coverage, stigma, and treatment gaps.
+- **Healthcare financing:** public insurance, provider payment, and financial protection.
+- **Policy evaluation:** applied empirical work on health-system reforms and public programs.
+
+## Publications
+
+{{< include _content/publications.md >}}
+
+## Working Papers
+
+{{< include _content/working-papers.md >}}
+
+## Other Research Projects
+
+{{< include _content/projects.md >}}

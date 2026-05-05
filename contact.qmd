@@ -1,0 +1,25 @@
+---
+title: "Contact"
+description: "Email and institutional affiliation."
+---
+
+## Email
+
+[fikru.rizal@monash.edu](mailto:fikru.rizal@monash.edu)
+
+## Affiliation
+
+Health Economics Group  
+School of Public Health and Preventive Medicine  
+Monash University
+
+Level 4, 553 St Kilda Road  
+Melbourne, VIC 3004  
+Australia
+
+## Links
+
+- [Google Scholar](https://scholar.google.com/citations?user=x1Dg-P8AAAAJ&hl=en&oi=ao)
+- [GitHub](https://github.com/fikrurizal)
+- [LinkedIn](https://www.linkedin.com/in/muhammad-fikru-rizal-066a3081/)
+- [X / Twitter](https://twitter.com/fikrurizal)

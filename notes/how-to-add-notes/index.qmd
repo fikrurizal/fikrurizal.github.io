@@ -1,0 +1,27 @@
+---
+title: "How to Add a New Note"
+date: "2026-05-05"
+categories: [website, notes]
+draft: false
+description: "A short placeholder post showing the structure for future notes."
+---
+
+This placeholder post shows the basic structure for adding notes to the website.
+
+To add a new post:
+
+1. Create a folder under `notes/`, for example `notes/my-new-note/`.
+2. Add an `index.qmd` file inside that folder.
+3. Start the file with metadata like this:
+
+```yaml
+---
+title: "My New Note"
+date: "2026-05-05"
+categories: [health economics, policy]
+draft: false
+description: "One sentence summary for listings and search engines."
+---
+```
+
+Write the post below the metadata using Markdown. Set `draft: true` while working if you do not want a post to be published.

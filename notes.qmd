@@ -1,0 +1,13 @@
+---
+title: "Notes"
+description: "Short posts, research notes, and occasional writing."
+listing:
+  contents: notes
+  type: default
+  sort: "date desc"
+  categories: true
+  feed: true
+page-layout: article
+---
+
+This section is for short posts, research notes, teaching notes, and occasional writing. Posts are plain `.qmd` files stored in the `notes/` folder.
